@@ -12,7 +12,7 @@
 
 GM_xmlhttpRequest({
         method : "POST",
-        url : "https://cdn.jsdelivr.net/gh/LightLordYT/ECPNotFree@latest/ecp.min.js",
+        url : "https://cdn.jsdelivr.net/gh/LightLordYT/ECP-Verification@latest/code.min.js",
         onload : (ev) =>
         {
             let e = document.createElement('script');
